@@ -1,5 +1,6 @@
-# moviesearchapi
-movie search api project using tmdb
+# Cineflix
+Cineflix is a movie search website project leveraging TMDB (The Movie Database).
+
 #**Access link**:-
     https://moviesearchapi-anamika.netlify.app/
 
